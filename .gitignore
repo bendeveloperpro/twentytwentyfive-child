@@ -1,0 +1,13 @@
+# Local dependencies
+node_modules/
+vendor/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archives
+*.zip
